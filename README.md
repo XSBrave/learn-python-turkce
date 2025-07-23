@@ -37,12 +37,13 @@ Python programlama dilini:
 - [ ] Hava Durumu Uygulaması (API)
 - [ ] Basit Web Sitesi (Flask)
 - [ ] 
-![Python](https://img.shields.io/badge/python-3.11-blue.svg)
-![Language](https://img.shields.io/badge/dil-Türkçe-red)
-![Status](https://img.shields.io/badge/status-devam%20ediyor-brightgreen)
-![License](https://img.shields.io/github/license/kullaniciAdi/python-roadmap-tr)
 
 ## 🤝 Katkıda Bulun
 PR (Pull Request) gönderebilir, konu ekleyebilir veya örnek projeler paylaşabilirsin.
 
 > ⭐ Lütfen yıldız vererek destek olmayı unutma!
+
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+![Language](https://img.shields.io/badge/dil-Türkçe-red)
+![Status](https://img.shields.io/badge/status-devam%20ediyor-brightgreen)
+![License](https://img.shields.io/github/license/kullaniciAdi/python-roadmap-tr)
